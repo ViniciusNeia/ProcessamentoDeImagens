@@ -14,6 +14,7 @@ Descrição:
 **Links**
 - **Dataset (Kaggle)**: https://www.kaggle.com/datasets/faysalmiah1721758/potato-dataset
 - **Repositório base / referência**: https://github.com/ViniciusNeia/ProcessamentoDeImagens
+- **Video**: https://drive.google.com/file/d/1wI1Jc1BkgBMVpXWe1ekCpkyWfGQ6lsbe/view?usp=sharing
 
 **Requisitos**
 - **Python**: 3.10+ (recomendado 3.10–3.11)
