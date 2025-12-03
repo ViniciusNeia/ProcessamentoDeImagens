@@ -33,9 +33,12 @@ python -m venv .venv
 pip install -r src\requirements.txt
 ```
 
-3. Coloque o dataset na pasta `datasets` com o nome `potato-dataset` (caminho esperado: `ProjetoFinalImagens/datasets/potato-dataset`).
+3. Coloque o dataset na pasta `datasets` com o nome `original-dataset` (caminho esperado: `ProjetoFinalImagens/datasets/original-dataset`).
 
 **Como rodar**
+- **SPLIT**: Executre o `splitdataset.py` para separar o dataset nos 3 grupos diferentes adequadamente(Após a execução o `origina-dataset` pode ser deletado)
+
+
 - **Treinamento**: entre na pasta `src` e execute:
 
 ```
