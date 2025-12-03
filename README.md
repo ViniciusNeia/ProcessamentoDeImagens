@@ -20,7 +20,7 @@ Descrição:
 - **Dependências**: veja `src/requirements.txt`.
 
 **Como configurar o ambiente (Windows PowerShell)**
-1. No nível do projeto (`ProjetoFinalImagens`), crie e ative um ambiente virtual(É necessario python 3.10+):
+1. No nível do projeto (`ProjetoFinalImagens`), crie e ative um ambiente virtual se tiver outro python se não o 3.10:
 
 ```
 python -m venv .venv
